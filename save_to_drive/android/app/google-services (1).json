@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "307212388183",
+    "project_id": "gdrive-3ad9a",
+    "storage_bucket": "gdrive-3ad9a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307212388183:android:81e457d2c8b1b2cc64e012",
+        "android_client_info": {
+          "package_name": "com.example.save_to_drive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5vLe8YeJXOV_-3lHqCBaDo5ZmMkPW-V4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
